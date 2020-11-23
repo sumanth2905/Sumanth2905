@@ -7,6 +7,7 @@
 I am Sumanth K. My main interest lies in Machine Learning. I am always curious to learn something new.
 
 
+- ❤️ I'm participating in **Sophist Coding League**
 
 - 🔭 I’m currently working on a Computer Vision project.
 
