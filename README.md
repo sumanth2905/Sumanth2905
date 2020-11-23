@@ -6,6 +6,9 @@
 
 I am Sumanth K. My main interest lies in Machine Learning. I am always curious to learn something new.
 
+- :office: Vivekananda College of Engineering and Technology, Puttur
+
+- :zap: Founder of *Team Sankalp VCET* (A group for peer-learning)
 
 - ❤️ I'm participating in **Sophist Coding League**
 
