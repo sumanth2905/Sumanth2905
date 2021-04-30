@@ -10,9 +10,7 @@ I am Sumanth K. My main interest lies in Machine Learning. I am always curious t
 
 - :zap: Founder of *Team Sankalp VCET* (A group for peer-learning)
 
-- ❤️ I'm participating in **Sophist Coding League**
-
-- 🔭 I’m currently working on a Computer Vision project.
+- 🔭 I’m currently working on a mini-project on web development.
 
 - 🌱 I’m currently learning **Machine Learning**.
 
