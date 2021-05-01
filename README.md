@@ -1,6 +1,6 @@
 # Sumanth K
 
-[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/sumanthk2905/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:sumanthsubramanya@gmail.com)
+[![linkedin][512x397, 20%](https://github.com/Sumanth2905/Sumanth2905/blob/main/assets/img/linkedin.png)](https://www.linkedin.com/in/sumanthk2905/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail][512x397, 20%](https://github.com/Sumanth2905/Sumanth2905/blob/main/assets/img/mail.png)](mailto:sumanthsubramanya@gmail.com)
 
 ### Hi there 👋
 
