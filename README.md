@@ -1,6 +1,6 @@
 # Sumanth K
 
-[![linkedin](https://github.com/Sumanth2905/Sumanth2905/blob/main/assets/img/linkedin.png height=250px)](https://www.linkedin.com/in/sumanthk2905/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/Sumanth2905/Sumanth2905/blob/main/assets/img/mail.png)](mailto:sumanthsubramanya@gmail.com)
+[![linkedin](https://github.com/Sumanth2905/Sumanth2905/blob/main/assets/img/linkedin.png){width=50%}](https://www.linkedin.com/in/sumanthk2905/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/Sumanth2905/Sumanth2905/blob/main/assets/img/mail.png)](mailto:sumanthsubramanya@gmail.com)
 
 ### Hi there 👋
 
