@@ -1,7 +1,7 @@
 # Sumanth K
-<a href="https://www.linkedin.com/in/sumanthk2905"><img src="https://github.com/Sumanth2905/Sumanth2905/blob/main/assets/img/linkedin.png" alt="LinkedIN" style="width:42px;height:42px;"></a>
+<a href="https://www.linkedin.com/in/sumanthk2905"><img src="https://github.com/Sumanth2905/Sumanth2905/blob/main/assets/img/linkedin.png" alt="LinkedIN" style="width:10px;height:10px;"></a>
 
-<a href="mailto:sumanthsubramanya@gmail.com"><img src="https://github.com/Sumanth2905/Sumanth2905/blob/main/assets/img/mail.png" alt="Email" style="width:42px;height:42px;"></a>
+<a href="mailto:sumanthsubramanya@gmail.com"><img src="https://github.com/Sumanth2905/Sumanth2905/blob/main/assets/img/mail.png" alt="Email" style="width:10px;height:10px;"></a>
 ### Hi there 👋
 
 I am Sumanth K. My main interest lies in Machine Learning. I am always curious to learn something new.
