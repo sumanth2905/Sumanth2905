@@ -10,4 +10,4 @@ I am Sumanth K. My main interest lies in Machine Learning. I am always curious t
 - :zap: Founder of *Team Sankalp VCET* (A group for peer-learning)
 - :telescope: I’m currently working on a mini-project on web development.
 - :seedling: I’m currently learning **Machine Learning**.
-- :octocat: Participant at Let's Grow More Summer of Code
+- :octocat: Participant at **Let's Grow More Summer of Code**.
